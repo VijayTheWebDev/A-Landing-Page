@@ -35,14 +35,14 @@ html{
     left: 250px;
 }
 
-.search-input{
+.searchbar{
     position: relative;
     width: auto;
     height: auto;
     left: 450px;
 }
 
-.search-input input{
+.searchbar input{
     padding: 15px;
     background-color: #EFEFEF;
     border: 0;
@@ -51,7 +51,7 @@ html{
     font-size: 18px;
 }
 
-.search-input button{
+.searchbar button{
     position: absolute;
     background-color: #95ADBE;
     padding: 15px;
