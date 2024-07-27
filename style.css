@@ -42,6 +42,8 @@ html
 {
     position: relative;
     left: 600px;
+     width: auto;
+    height: auto;
 }
 .searchbar input
 {
